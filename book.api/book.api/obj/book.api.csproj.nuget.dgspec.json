@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Our projects\\hemant lab\\lab\\Angular\\udamy course\\Learn C# Full Stack Development with Angular and ASP.NET\\book-api\\book.api\\book.api\\book.api.csproj": {}
+    "D:\\Our projects\\hemant lab\\lab\\Angular\\udamy course\\Learn Csharp Full Stack Development with Angular and ASP.NET\\book-manager\\book.api\\book.api\\book.api.csproj": {}
   },
   "projects": {
-    "D:\\Our projects\\hemant lab\\lab\\Angular\\udamy course\\Learn C# Full Stack Development with Angular and ASP.NET\\book-api\\book.api\\book.api\\book.api.csproj": {
+    "D:\\Our projects\\hemant lab\\lab\\Angular\\udamy course\\Learn Csharp Full Stack Development with Angular and ASP.NET\\book-manager\\book.api\\book.api\\book.api.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Our projects\\hemant lab\\lab\\Angular\\udamy course\\Learn C# Full Stack Development with Angular and ASP.NET\\book-api\\book.api\\book.api\\book.api.csproj",
+        "projectUniqueName": "D:\\Our projects\\hemant lab\\lab\\Angular\\udamy course\\Learn Csharp Full Stack Development with Angular and ASP.NET\\book-manager\\book.api\\book.api\\book.api.csproj",
         "projectName": "book.api",
-        "projectPath": "D:\\Our projects\\hemant lab\\lab\\Angular\\udamy course\\Learn C# Full Stack Development with Angular and ASP.NET\\book-api\\book.api\\book.api\\book.api.csproj",
+        "projectPath": "D:\\Our projects\\hemant lab\\lab\\Angular\\udamy course\\Learn Csharp Full Stack Development with Angular and ASP.NET\\book-manager\\book.api\\book.api\\book.api.csproj",
         "packagesPath": "C:\\Users\\Hemant\\.nuget\\packages\\",
-        "outputPath": "D:\\Our projects\\hemant lab\\lab\\Angular\\udamy course\\Learn C# Full Stack Development with Angular and ASP.NET\\book-api\\book.api\\book.api\\obj\\",
+        "outputPath": "D:\\Our projects\\hemant lab\\lab\\Angular\\udamy course\\Learn Csharp Full Stack Development with Angular and ASP.NET\\book-manager\\book.api\\book.api\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
